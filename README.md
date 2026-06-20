@@ -66,4 +66,5 @@ Third-party plugin — use at your own risk. Read-only overlay; no automation. N
 
 | Version | Notes |
 |---------|--------|
+| **1.0.1** | Throttled UI scans (less CPU); reusable read buffers |
 | **1.0.0** | Genesis Tree sync, Breach popups, cap warning, position dummy |
